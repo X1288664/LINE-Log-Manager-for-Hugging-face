@@ -1,1 +1,3 @@
-# LINE-Log-Manager-for-Hugging-face
+# LINEログマネージャー(Hugging Face版)
+LINEログマネージャークロスプラットフォームプロジェクトの完全版
+
