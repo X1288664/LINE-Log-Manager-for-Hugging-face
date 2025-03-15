@@ -19,9 +19,13 @@ Gradioと呼ばれるGUIライブラリを採用しています。
 2. 上部のファイルをここにドロップ - または - クリックしてアップロードよりトークログをアップロードします。
 3. アップロード処理完了後、ユーザー検索または日付検索を行ってください。
 4. いずれかの検索実行後、下部のTXTをエクスポートする項目より結果のエクスポート処理を行います。
-5. ファイル名横のサイズ表記部をクリックまたはタップするとダウンロードできます。
+5. 下部の(ファイルをダウンロード)をクリックまたはタップするとダウンロードできます。
+# ページ集
+* [FAQ.よくある質問](https://github.com/X1288664/LINE-Log-Manager-for-Hugging-face/blob/Q%26A/README.md)
+* [トラブルシューティング](https://github.com/X1288664/LINE-Log-Manager-for-Hugging-face/blob/troubleshooting/README.md)
+* [問い合わせフォーム](https://forms.gle/mAUj1CdhufHFbiWs7)
+* [コピーライト](https://github.com/X1288664/LINE-Log-Manager-for-Hugging-face/blob/copyright/README.md)
 
-(例)search_results_20250314_235156.txt        880.KB ←こちらをクリック
 # Note(注意)
 * アップロードされたトークログは一時的にHugging Faceのサーバーに保存されますが、プログラムを終了すると破棄されます。
 * プログラムの仕様上、日付検索とユーザー検索は同時に行えません。
