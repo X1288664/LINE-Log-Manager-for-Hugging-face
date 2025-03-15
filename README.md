@@ -25,6 +25,7 @@ Gradioと呼ばれるGUIライブラリを採用しています。
 * [トラブルシューティング](https://github.com/X1288664/LINE-Log-Manager-for-Hugging-face/blob/troubleshooting/README.md)
 * [問い合わせフォーム](https://forms.gle/mAUj1CdhufHFbiWs7)
 * [コピーライト](https://github.com/X1288664/LINE-Log-Manager-for-Hugging-face/blob/copyright/README.md)
+* [使い方動画](https://youtu.be/j2GJtO5BydA)
 
 # Note(注意)
 * アップロードされたトークログは一時的にHugging Faceのサーバーに保存されますが、プログラムを終了すると破棄されます。
