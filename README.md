@@ -31,7 +31,7 @@
 
 # Author(作成者情報)
 
-* 作成者:パヤオ84世
+* 作成者:パヤ爺
 * 所属:Studio Marx
 * 問い合わせは[こちらよりお願いします](https://forms.gle/cQrvEu6Q4q94MjCSA)
 
