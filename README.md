@@ -1,6 +1,8 @@
 # LINEログマネージャー(Hugging Face版)
 LINEログマネージャークロスプラットフォームプロジェクトの完全版
-![image](https://github.com/X1288664/LINE-Log-Manager-for-Hugging-face/blob/Used-Files/Logo-name.png)
+
+<img src="https://github.com/X1288664/LINE-Log-Manager-for-Hugging-face/blob/Used-Files/Logo-name.png" width="500">
+
 LINEのトークログを読み込み、ワードと日付で検索し結果をエクスポートできるプログラムです。
 # DEMO
 デモ動画は[こちら](https://youtu.be/j2GJtO5BydA)
