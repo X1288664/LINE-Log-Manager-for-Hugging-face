@@ -32,12 +32,16 @@ Gradioと呼ばれるGUIライブラリを採用しています。
 # Note(注意)
 * アップロードされたトークログは一時的にHugging Faceのサーバーに保存されますが、プログラムを終了すると破棄されます。
 * プログラムの仕様上、日付検索とユーザー検索は同時に行えません。
+* 問い合わせは[こちらよりお願いします](https://forms.gle/cQrvEu6Q4q94MjCSA)(もつ楽での問い合わせも可)
 
 # Author(作成者情報)
 
+<img src="https://github.com/X1288664/LINE-Log-Manager-for-Hugging-face/blob/copyright/icon-1000X%201000.png" width="250">
+
 * 作成者:パヤ爺
 * 所属:Studio Marx
-* 問い合わせは[こちらよりお願いします](https://forms.gle/cQrvEu6Q4q94MjCSA)
+* 詳細は[こちら](https://github.com/X1288664/LINE-Log-Manager-for-Hugging-face/blob/copyright/README.md)
+
 
 # License(ライセンス)
 ライセンスを明示する
