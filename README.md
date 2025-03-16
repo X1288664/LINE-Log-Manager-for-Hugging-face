@@ -18,7 +18,7 @@
 * もつ楽参加1000日記念日:2025/3/19
 * 所属:Studio Marx
 
-# License(ライセンス)
+# Software License(ソフトウェアライセンス)
 ライセンスを明示する
 
 * This project code was partially generated with assistance from [OpenAI's ChatGPT.](https://chatgpt.com/)
